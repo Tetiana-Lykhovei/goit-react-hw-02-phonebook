@@ -1,0 +1,16 @@
+.element {
+  width: 50%;
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 10px;
+  padding: 7px;
+  align-items: center;
+  text-transform: capitalize;
+  border-radius: 5px;
+  border: 1px solid teal;
+  background-color: palegoldenrod;
+}
+
+.btn {
+  margin-left: 10px;
+}
